@@ -1,0 +1,18 @@
+# --- Основни AI и аудио библиотеки ---
+transformers==4.38.2
+gradio==4.19.2
+librosa==0.10.1
+scipy==1.12.0
+soundfile==0.12.1
+
+# --- Математика, таблици и визуализация ---
+numpy==1.26.4
+pandas==2.2.1
+matplotlib==3.8.3
+tensorboard==2.16.2
+
+# --- Езикова обработка и зависимост за numba ---
+phonemizer==3.2.1
+numba==0.59.0
+Cython==0.29.21
+Unidecode==1.1.1
