@@ -48,7 +48,7 @@ python setup.py build_ext --inplace Така ще ползва чист PyTorch 
 
 cd ..
 
-python webui_v3.py
+python webui_v4.py
 
 -----------------------------------
 
